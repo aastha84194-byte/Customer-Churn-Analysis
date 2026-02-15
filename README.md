@@ -1,9 +1,9 @@
 # 📊 Customer Churn Analysis (Exploratory Data Analysis)
 
 ## 📂 Repository Structure
-* **`churn_analysis(1).ipynb`**: The complete technical workflow including data cleaning, exploratory data analysis (EDA), and visualizations.
-* **`telco customer churn analysis.pdf`**: A high-level executive summary and strategic recommendations report.
-*  **`Customer Churn.csv`**: The primary dataset (7,043 customers).
+* [**`churn_analysis.ipynb`**](churn_analysis.ipynb): The complete technical workflow including data cleaning, exploratory data analysis (EDA), and visualizations.
+* [**`telco customer churn analysis.pdf`**](telco%20customer%20churn%20analysis.pdf): A high-level executive summary and strategic recommendations report.
+* [**`Customer Churn.csv`**](Customer%20Churn.csv): The primary dataset (7,043 customers).
 
 ## 🔍 Project Objective
 This project performs Exploratory Data Analysis (EDA) on a telecom customer dataset to identify key drivers of customer churn and generate data-driven retention insights.
